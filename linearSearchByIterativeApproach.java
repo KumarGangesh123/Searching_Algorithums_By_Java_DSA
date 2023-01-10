@@ -23,4 +23,15 @@ puvlic class linearSearchByIterativeApproach{
   }
   
 }
+  
+  
+  
+  
+/*
+
+    In the above code , method elementIndexByIteration(int []A,int element) { } returns the index of the required element of the array , if it present on the array but 
+    if the element is not found in the array then it returns -1 ( which shows that the element is not found in the array ) .
+    
+ */
+    
     
